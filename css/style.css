@@ -1,0 +1,80 @@
+html {
+	margin:5px;
+}
+#logo {
+	text-align:center;
+	font-size:2em;
+	font-family:ARIAL BLACK, sans-serif;
+	color:#0000FF;
+	background-color:#e6e6fa;
+	margin:5px;
+	padding:5px;
+	
+}
+#logo a {
+	text-decoration:none;
+}
+#mainmenu{
+	text-align:center;
+	background-color:#e6e6fa;
+	color:#CD5C5C;
+	font-family:Fantasy,sans-serif;
+	font-size:1.5em;
+}
+#vertmenu{
+	list-style-type: none;
+	margin:5px;
+	padding:5px;
+	background-color:#e6e6fa;	
+}
+
+#resume{
+	background-color:#e6e6fa;
+	margin:15px;
+	padding:15px;
+}
+#tab {
+	border-color:#e6e6fa;
+	width:99.9%;
+	/*border-collapse: collapse;*/
+}
+#podmenu {
+	background-color:#e6e6fa;
+	color:#CD5C5C;
+	font-family:Fantasy,sans-serif;
+	font-size:1.5em;
+	margin:5px;
+	padding:5px;
+	width:300px;
+}
+#news  {
+	margin:5px;
+	padding:5px;
+	list-style-type: none;
+	width:88.9%;
+}
+#eve  {
+	margin:35px;
+	padding:5px;
+	list-style-type: none;
+	width:88.9%;
+}
+#tabcenter {
+	border-color:#e6e6fa;
+	width:99.9%;
+}
+#req {
+	
+	padding:-60px;
+	margin:5px;
+}
+#gormenu {
+	list-style-type: none;
+	margin:0 20px;
+	padding:15px;
+	background-color:#e6e6fa;
+	font-family:Fantasy,sans-serif;	
+}
+#gorA {
+	padding:5px;
+}
